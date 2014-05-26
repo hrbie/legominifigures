@@ -1,0 +1,26 @@
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes.dex : \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\HelloWorld.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\BuildConfig.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\HelloWorld.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\R$attr.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\R$drawable.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\R$string.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\R$xml.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\cr\tec\legominifigures\R.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\camera\CameraLauncher.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\camera\ExifHelper.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\camera\FileHelper.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
+C:\Phonegap\ContactsList\platforms\android\ant-build\dexedLibs\classes-3ed232d1a18dbe8ffcab49759c1806d2.jar \
